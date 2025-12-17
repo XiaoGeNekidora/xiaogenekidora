@@ -12,8 +12,8 @@ Research Interest: Programming Language and Type System.
 ### Links
 [Itch](https://xgn.itch.io/)
 
-[Personal Blog](https://xiaogenintendo.github.io/)
+[Personal Blog](https://xiaogenekidora.github.io/)
 
 [Mail](mailto:gwq0419@163.com)
 
-[Gist](https://gist.github.com/XiaoGeNintendo)
+[Gist](https://gist.github.com/xiaogenekidora)
