@@ -9,7 +9,10 @@ I could write a bit of many programming languages like C++, Java, C#, Python, et
 
 Research Interest: Programming Language and Type System.
 
+> **All repositories here contain reasonable human coding effort. I have moved all my vibe projects here: [XiaoGeNekidoraVibes](https://github.com/XiaoGeNekidoraVibes)**
+
 ### Links
+
 [Itch](https://xgn.itch.io/)
 
 [Personal Blog](https://xiaogenekidora.github.io/)
